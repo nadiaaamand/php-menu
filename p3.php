@@ -9,9 +9,10 @@
 <h1>About</h1>
 <p></p>
 
-<hr>
+<footer>
 <?php 
 require 'footer.php';
 ?>
+</footer>
 </body>
 </html>

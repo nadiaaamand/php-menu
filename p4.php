@@ -8,10 +8,10 @@
 <body>
 <h1><Contact/h1>
 <p></p>
-
-<hr>
+<footer>
 <?php 
 require 'footer.php';
 ?>
+</footer>
 </body>
 </html>

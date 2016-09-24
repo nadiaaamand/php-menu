@@ -8,11 +8,11 @@
 <body>
 <h1>Portfolio</h1>
 <p></p>
+
+<footer>
 <?php 
 require 'footer.php';
 ?>
-
-<hr>
-<p></p>
+</footer>
 </body>
 </html>
