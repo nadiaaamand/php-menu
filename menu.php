@@ -1,6 +1,6 @@
 <?php
 $curpage = basename ($_SERVER['PHP_SELF']);
-
+//Using this cause you can't use a class directly since the class is on all pages - instead I have used an if statement --> if the current page is e.g. p5 the echo (show) that the class active. The $_server is a super global variable which holds information about header, locations.
 ?>
 <!doctype html>
 <html>
