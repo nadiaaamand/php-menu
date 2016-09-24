@@ -1,3 +1,7 @@
+<?php
+$curpage = basename ($_SERVER['PHP_SELF']);
+
+?>
 <!doctype html>
 <html>
 <head>
@@ -6,10 +10,12 @@
 </head>
 
 <body>
-<li><a href="p5.php">Home</a></li>
-<li><a href="p1.php">Portfolio</a></li>
-<li><a href="p2.php">Services</a></li>
-<li><a href="p3.php">About</a></li>
-<li><a href="p4.php">Contact</a></li>
+
+<li><a href="p5.php"<?php if($curpage = 'p5.php') {echo 'class="active"';}?>>Home</a></li>
+<li><a href="p1.php"<?php if($curpage = 'p1.php') {echo 'class="active"';}?>>Portfolio</a></li>
+<li><a href="p2.php"<?php if($curpage = 'p2.php') {echo 'class="active"';}?>>Services</a></li>
+<li><a href="p3.php"<?php if($curpage = 'p3.php') {echo 'class="active"';}?>>About</a></li>
+<li><a href="p4.php"<?php if($curpage = 'p4.php') {echo 'class="active"';}?>>Contact</a></li>
+
 </body>
 </html>
