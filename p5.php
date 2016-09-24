@@ -2,12 +2,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Contact</title>
+<title>Home</title>
 </head>
 
 <body>
 <?php include 'menu.php'; ?>
-<h1>Contact</h1>
+<h1>Home</h1>
 <article>
 <p></p>
 </article>

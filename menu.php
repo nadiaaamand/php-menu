@@ -6,9 +6,10 @@
 </head>
 
 <body>
-<li><a href="#">Page 1</a></li>
-<li><a href="#">Page 2</a></li>
-<li><a href="#">Page 3</a></li>
-<li><a href="#">Page 4</a></li>
+<li><a href="p5.php">Home</a></li>
+<li><a href="p1.php">Portfolio</a></li>
+<li><a href="p2.php">Services</a></li>
+<li><a href="p3.php">About</a></li>
+<li><a href="p4.php">Contact</a></li>
 </body>
 </html>
