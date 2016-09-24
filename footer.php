@@ -7,10 +7,8 @@
 
 <body>
 <?php 
+echo 'Nadia Elida Aamand ';
 echo '&copy 2016';
-echo '<p>';
-echo 'CPH Business Academy project';
-echo '</p>';
 ?>
 </body>
 </html>
