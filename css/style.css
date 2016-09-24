@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+
+ul {
+	float: right;
+	list-style: none;
+	display:inline;
+	}
+
