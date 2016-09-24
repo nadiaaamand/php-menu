@@ -8,8 +8,10 @@
 </head>
 
 <body>
+<header>
 <?php include 'menu.php'; ?>
 <h1>Contact</h1>
+</header>
 <article>
 <p></p>
 </article>

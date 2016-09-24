@@ -7,8 +7,10 @@
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
+<header>
 <?php include 'menu.php'; ?>
 <h1>Services</h1>
+</header>
 <article>
 <p></p>
 </article>
