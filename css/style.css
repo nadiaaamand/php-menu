@@ -1,9 +1,26 @@
 @charset "UTF-8";
 /* CSS Document */
+body {
+	font-family:helvetica, arial, sans-serif;
+	}
 
 ul {
 	float: right;
+	}
+li {
+	display: inline;
 	list-style: none;
-	display:inline;
+	}
+a {
+	text-decoration:none;
+	}
+article {
+	height: 500px;
+	
+	}
+footer {
+	height:90px;
+	background-color:grey;
+	
 	}
 
