@@ -7,7 +7,9 @@
 
 <body>
 <h1><Contact/h1>
+<article>
 <p></p>
+</article>
 <footer>
 <?php 
 require 'footer.php';

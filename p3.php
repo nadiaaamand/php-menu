@@ -7,7 +7,9 @@
 
 <body>
 <h1>About</h1>
+<article>
 <p></p>
+</article>
 
 <footer>
 <?php 

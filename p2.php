@@ -7,8 +7,9 @@
 
 <body>
 <h1>Services</h1>
+<article>
 <p></p>
-
+</article>
 <footer>
 <?php 
 require 'footer.php';
