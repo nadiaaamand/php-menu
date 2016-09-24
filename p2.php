@@ -2,11 +2,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Page 2</title>
+<title>Sevices</title>
 </head>
 
 <body>
-<h1>Page 2</h1>
+<h1>Services</h1>
 <p></p>
 
 <hr>
