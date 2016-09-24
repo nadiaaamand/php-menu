@@ -9,10 +9,9 @@
 <body>
 <header>
 <?php include 'menu.php'; ?>
-<h1>Services</h1>
 </header>
 <article>
-<p></p>
+<h1>Services</h1>
 </article>
 <footer>
 <?php 

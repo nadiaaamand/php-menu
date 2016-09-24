@@ -5,16 +5,14 @@
 <title>Portfolio</title>
 <link rel="stylesheet" type="text/css" href="css/reset.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
-
 </head>
 
 <body>
 <header>
 <?php include 'menu.php'; ?>
-<h1>Portfolio</h1>
 </header>
 <article>
-<p></p>
+<h1>Portfolio</h1>
 </article>
 <footer>
 <?php 

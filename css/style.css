@@ -2,6 +2,7 @@
 /* CSS Document */
 body {
 	font-family:helvetica, arial, sans-serif;
+	background-color: #EDEDED;
 	}
 
 ul {
@@ -16,26 +17,39 @@ li {
 a {
 	text-decoration:none;
 	color: white;
+	border: 10px solid #914E57;
+	background-color: #914E57;
 	}
 li a:hover {
-	color: #B2808E;
+	background-color: #B2808E;
+	border: 10px solid #B2808E;
 	}
 h1 {
-	font-size:46px;
+	font-size:40px;
+	text-align:center;
+	padding-top: 20px;
 }
 header {
-	margin-top: 20px;
-	margin-left: 20px;
-	margin-right: 20px;
+	margin: 20px 20px 0px 20px;
+	height: 40px;
+	
 	}
 
 article {
 	height: 550px;
+	background-color:white;
 	
 	}
 footer {
 	height:85px;
-	background-color:grey;
-	
+	background-color:#EDEDED;
+	color: #4C4B4C;
+	margin-top: 15px;
+	margin-left: 20px;
+	font-size:12px;
+	}
+.active {
+	background-color: #B2808E;
+	border: 10px solid #B2808E;
 	}
 
